@@ -1,0 +1,4 @@
+C:\TFS\ChickenSoftware.RoadAlertServices.Solution\AccordLocal\bin\Debug\AccordLocal.dll
+C:\TFS\ChickenSoftware.RoadAlertServices.Solution\AccordLocal\bin\Debug\AccordLocal.pdb
+C:\TFS\ChickenSoftware.RoadAlertServices.Solution\AccordLocal\obj\Debug\AccordLocal.dll
+C:\TFS\ChickenSoftware.RoadAlertServices.Solution\AccordLocal\obj\Debug\AccordLocal.pdb

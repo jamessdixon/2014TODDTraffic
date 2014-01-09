@@ -1,0 +1,140 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit http://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAi/BOlQquWkyUJnKImjg4qQAAAAACAAAAAAAQZgAAAAEAACAAAAD9m0UPex/DM2PC3xUTl5uEEJP15q4E6azp/sL7g0bfZgAAAAAOgAAAAAIAACAAAAAHWjawbf7VjvVdvKa84C8jqXm6UvtH1hvGSeIbddpdyiAAAAD3/oiqMfVJ5IxUwzVd6Jw73fVvKzcTIo5aDby/mSZcJ0AAAAD1EPlnyl72DnXEo8CsIZOe/CXZUGqPmKTxKbCKgUgTjwiYfiZX7UkbCac2Fg6NhghEUhlK6mxJE8wB3eJev4O4</EncryptedPassword>
+    <_PublishTargetUrl>ftp://ftp.chickensoftware.com/RoadAlert</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="bin/ChickenSoftware.RoadAlertServices.dll">
+      <publishTime>01/03/2014 13:07:30</publishTime>
+    </File>
+    <File Include="bin/ChkickenSoftware.RoadAlertServices.dll">
+      <publishTime>01/01/2014 15:48:51</publishTime>
+    </File>
+    <File Include="bin/de/Microsoft.Data.Edm.resources.dll">
+      <publishTime>01/01/2014 14:39:44</publishTime>
+    </File>
+    <File Include="bin/de/Microsoft.Data.OData.resources.dll">
+      <publishTime>01/01/2014 14:39:44</publishTime>
+    </File>
+    <File Include="bin/de/System.Spatial.resources.dll">
+      <publishTime>01/01/2014 14:39:42</publishTime>
+    </File>
+    <File Include="bin/EntityFramework.dll">
+      <publishTime>01/01/2014 14:39:50</publishTime>
+    </File>
+    <File Include="bin/EntityFramework.SqlServer.dll">
+      <publishTime>01/01/2014 14:39:50</publishTime>
+    </File>
+    <File Include="bin/es/Microsoft.Data.Edm.resources.dll">
+      <publishTime>01/01/2014 14:39:44</publishTime>
+    </File>
+    <File Include="bin/es/Microsoft.Data.OData.resources.dll">
+      <publishTime>01/01/2014 14:39:44</publishTime>
+    </File>
+    <File Include="bin/es/System.Spatial.resources.dll">
+      <publishTime>01/01/2014 14:39:42</publishTime>
+    </File>
+    <File Include="bin/fr/Microsoft.Data.Edm.resources.dll">
+      <publishTime>01/01/2014 14:39:44</publishTime>
+    </File>
+    <File Include="bin/fr/Microsoft.Data.OData.resources.dll">
+      <publishTime>01/01/2014 14:39:44</publishTime>
+    </File>
+    <File Include="bin/fr/System.Spatial.resources.dll">
+      <publishTime>01/01/2014 14:39:42</publishTime>
+    </File>
+    <File Include="bin/it/Microsoft.Data.Edm.resources.dll">
+      <publishTime>01/01/2014 14:39:44</publishTime>
+    </File>
+    <File Include="bin/it/Microsoft.Data.OData.resources.dll">
+      <publishTime>01/01/2014 14:39:44</publishTime>
+    </File>
+    <File Include="bin/it/System.Spatial.resources.dll">
+      <publishTime>01/01/2014 14:39:42</publishTime>
+    </File>
+    <File Include="bin/ja/Microsoft.Data.Edm.resources.dll">
+      <publishTime>01/01/2014 14:39:44</publishTime>
+    </File>
+    <File Include="bin/ja/Microsoft.Data.OData.resources.dll">
+      <publishTime>01/01/2014 14:39:44</publishTime>
+    </File>
+    <File Include="bin/ja/System.Spatial.resources.dll">
+      <publishTime>01/01/2014 14:39:42</publishTime>
+    </File>
+    <File Include="bin/ko/Microsoft.Data.Edm.resources.dll">
+      <publishTime>01/01/2014 14:39:44</publishTime>
+    </File>
+    <File Include="bin/ko/Microsoft.Data.OData.resources.dll">
+      <publishTime>01/01/2014 14:39:44</publishTime>
+    </File>
+    <File Include="bin/ko/System.Spatial.resources.dll">
+      <publishTime>01/01/2014 14:39:42</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Data.Edm.dll">
+      <publishTime>01/01/2014 14:39:44</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Data.OData.dll">
+      <publishTime>01/01/2014 14:39:44</publishTime>
+    </File>
+    <File Include="bin/Newtonsoft.Json.dll">
+      <publishTime>01/01/2014 13:20:16</publishTime>
+    </File>
+    <File Include="bin/ru/Microsoft.Data.Edm.resources.dll">
+      <publishTime>01/01/2014 14:39:44</publishTime>
+    </File>
+    <File Include="bin/ru/Microsoft.Data.OData.resources.dll">
+      <publishTime>01/01/2014 14:39:44</publishTime>
+    </File>
+    <File Include="bin/ru/System.Spatial.resources.dll">
+      <publishTime>01/01/2014 14:39:42</publishTime>
+    </File>
+    <File Include="bin/System.Net.Http.Formatting.dll">
+      <publishTime>01/01/2014 13:20:18</publishTime>
+    </File>
+    <File Include="bin/System.Spatial.dll">
+      <publishTime>01/01/2014 14:39:42</publishTime>
+    </File>
+    <File Include="bin/System.Web.Http.dll">
+      <publishTime>01/01/2014 13:20:18</publishTime>
+    </File>
+    <File Include="bin/System.Web.Http.OData.dll">
+      <publishTime>01/01/2014 14:39:44</publishTime>
+    </File>
+    <File Include="bin/System.Web.Http.WebHost.dll">
+      <publishTime>01/01/2014 13:20:18</publishTime>
+    </File>
+    <File Include="bin/zh-Hans/Microsoft.Data.Edm.resources.dll">
+      <publishTime>01/01/2014 14:39:44</publishTime>
+    </File>
+    <File Include="bin/zh-Hans/Microsoft.Data.OData.resources.dll">
+      <publishTime>01/01/2014 14:39:44</publishTime>
+    </File>
+    <File Include="bin/zh-Hans/System.Spatial.resources.dll">
+      <publishTime>01/01/2014 14:39:42</publishTime>
+    </File>
+    <File Include="bin/zh-Hant/Microsoft.Data.Edm.resources.dll">
+      <publishTime>01/01/2014 14:39:44</publishTime>
+    </File>
+    <File Include="bin/zh-Hant/Microsoft.Data.OData.resources.dll">
+      <publishTime>01/01/2014 14:39:44</publishTime>
+    </File>
+    <File Include="bin/zh-Hant/System.Spatial.resources.dll">
+      <publishTime>01/01/2014 14:39:42</publishTime>
+    </File>
+    <File Include="Global.asax">
+      <publishTime>01/01/2014 17:18:21</publishTime>
+    </File>
+    <File Include="packages.config">
+      <publishTime>01/01/2014 14:40:04</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>01/03/2014 09:27:19</publishTime>
+    </File>
+  </ItemGroup>
+</Project>

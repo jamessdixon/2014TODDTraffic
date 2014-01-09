@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChickenSoftware.RoadAlert.Services.Tests", "ChickenSoftware.RoadAlertServices.Tests\ChickenSoftware.RoadAlert.Services.Tests.csproj", "{F05E13ED-062B-4FBE-BF67-DB19C33AD57B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChickenSoftware.RoadAlert.Services", "ChickenSoftware.RoadAlertServices\ChickenSoftware.RoadAlert.Services.csproj", "{DE5362CC-7AF1-437A-B343-7852513F6C57}"
+EndProject
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "ChickenSoftware.RoadAlert.Analysis", "ChickenSoftware.RoadAlert.Analysis\ChickenSoftware.RoadAlert.Analysis.fsproj", "{02B01B6C-4D88-4EDE-8D29-C7D49C68EA55}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChickenSoftware.RoadAlert.Analysis.Tests", "ChickenSoftware.RoadAlert.Analysis.Tests\ChickenSoftware.RoadAlert.Analysis.Tests.csproj", "{D4ACDEDD-1B0D-458E-9C5C-B93A30B10B2E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChickenSoftware.RoadAlert.UI", "ChickenSoftware.RoadAlert.UI\ChickenSoftware.RoadAlert.UI.csproj", "{11A439A9-C2AF-4D7D-A3F6-A9220D0450AE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F05E13ED-062B-4FBE-BF67-DB19C33AD57B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F05E13ED-062B-4FBE-BF67-DB19C33AD57B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F05E13ED-062B-4FBE-BF67-DB19C33AD57B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F05E13ED-062B-4FBE-BF67-DB19C33AD57B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DE5362CC-7AF1-437A-B343-7852513F6C57}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE5362CC-7AF1-437A-B343-7852513F6C57}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE5362CC-7AF1-437A-B343-7852513F6C57}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE5362CC-7AF1-437A-B343-7852513F6C57}.Release|Any CPU.Build.0 = Release|Any CPU
+		{02B01B6C-4D88-4EDE-8D29-C7D49C68EA55}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{02B01B6C-4D88-4EDE-8D29-C7D49C68EA55}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{02B01B6C-4D88-4EDE-8D29-C7D49C68EA55}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{02B01B6C-4D88-4EDE-8D29-C7D49C68EA55}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D4ACDEDD-1B0D-458E-9C5C-B93A30B10B2E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D4ACDEDD-1B0D-458E-9C5C-B93A30B10B2E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D4ACDEDD-1B0D-458E-9C5C-B93A30B10B2E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D4ACDEDD-1B0D-458E-9C5C-B93A30B10B2E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{11A439A9-C2AF-4D7D-A3F6-A9220D0450AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{11A439A9-C2AF-4D7D-A3F6-A9220D0450AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{11A439A9-C2AF-4D7D-A3F6-A9220D0450AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{11A439A9-C2AF-4D7D-A3F6-A9220D0450AE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
